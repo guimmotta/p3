@@ -3,12 +3,12 @@ body {
 }
 
 .navbar {
-    background-color: #e15f41;
+    background-color: #1837a6;
 }
 
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
-    color: #e15f41;
+    color: #1837a6;
 }
 
 #cabecalho .nav .nav-link,
@@ -19,30 +19,30 @@ body {
 }
 
 .navbar-toggler {
-    background-color: #ffeae6;
+    background-color: #fff6fe;
 }
 
 .section-title {
     font-family: Pacifico, Cursive;
 }
 
-#sobre-o-restaurante,
-#cardapio {
-    background-color: #ffeae6;
+#about,
+#pricing {
+    background-color: #fff6fe;
 }
 
 .text-colored {
-    color: #e15f41
+    color: #1837a6
 }
 
 .nav-cardapio .nav-link.active,
-#fale-conosco button {
-    background-color: #e15f41;
+#contact button {
+    background-color: #1837a6;
     color: #fff;
 }
 
 .nav-cardapio .nav-link:hover {
-    color: #e15f41   
+    color: #1837a6
 }
 
 .social-links li {
